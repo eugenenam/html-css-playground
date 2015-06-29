@@ -1,0 +1,20 @@
+.yellow {background-color: yellow;
+        }
+
+#orange {background-color: orange;
+        }
+
+
+/* Use properties to know
+
+font-size: 14px;
+font-family: serif/sans-serif/script;
+color: red/#6-digit hex/rgb value;
+background-color: red/#6-digit hex/rgb value;
+border: 1px solid purple;
+
+width, hieght padding, margin can all have pixel values
+  - padding and maring refer to the box model and can haev up to 4 values
+
+
+C
