@@ -1,0 +1,29 @@
+@media screen and (max-width: 960px) {
+    .nav {
+        float: none;
+        height: 0;
+        transition: all .2s linear;
+    }
+    .big {
+        height: auto;
+    }
+  }
+  
+  
+  JAVASCRIPT
+  
+  document.querySelector ('.menu-icon;).addEventLIstener('click' function
+  
+    var nav= document.querySelector('.nav')
+    if(nav.hasClass = 'big'){
+      nav.removeClass('big');
+      
+    }
+  
+  
+  Jquery
+  
+  $('.menu-icon').click(function(){
+    $('.nav').slideToggle();
+  })
+  
